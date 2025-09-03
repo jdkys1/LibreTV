@@ -25,6 +25,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
+        detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -38,17 +39,19 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    subo: {
-        api: 'https://subocj.com/api.php/provide/vod',
-        name: '速播资源',
+    xiaomaomi: {
+        api: 'https://zy.xmm.hk/api.php/provide/vod',
+        name: '小猫咪资源',
     },
     ffzy: {
-        api: 'http://api.ffzyapi.com/api.php/provide/vod',
+        api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
+        detail: 'http://ffzy5.tv', 
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
+        detail: 'https://heimuer.tv', 
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
@@ -69,6 +72,7 @@ const API_SITES = {
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
+        detail: 'https://jszyapi.com', 
     },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
