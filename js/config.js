@@ -25,7 +25,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        //detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -38,10 +38,6 @@ const API_SITES = {
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
-    },
-    xiaomaomi: {
-        api: 'https://zy.xmm.hk/api.php/provide/vod',
-        name: '小猫咪资源',
     },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
