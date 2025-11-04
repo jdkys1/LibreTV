@@ -25,7 +25,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        //detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -41,8 +41,8 @@ const API_SITES = {
     },
     ffzy: {
         api: 'http://api.ffzyapi.com/api.php/provide/vod',
-        name: '非凡影视',
-        detail: 'http://api.ffzyapi.com', 
+        name: '非凡资源',
+        //detail: 'http://api.ffzyapi.com', 
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
@@ -64,10 +64,6 @@ const API_SITES = {
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
-    },
-    mozhua: {
-        api: 'https://mozhuazy.com/api.php/provide/vod',
-        name: '魔爪资源',
     },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
