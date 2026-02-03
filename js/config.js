@@ -22,6 +22,11 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    ffzy: {
+        api: 'http://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡资源',
+        detail: 'http://api.ffzyapi.com/', 
+    },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
